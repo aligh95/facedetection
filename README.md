@@ -1,2 +1,6 @@
 # facedetection
-Face detection with open cv in python language
+Face detection with open cv in python language<br/>
+in this project we use open cv to detect face with webcam or offline image <br/>
+OpenCV is a library of programming functions mainly aimed at real-time computer vision.<br/>
+Originally developed by Intel, it was later supported by Willow Garage then Itseez. <br/>
+The library is cross-platform and free for use under the open-source BSD license.
