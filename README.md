@@ -12,3 +12,7 @@ The library is cross-platform and free for use under the open-source BSD license
 # Script Libraries : 
 * webcam_cv3.py (read from webcam and process it)<br/>
 * image.py (read from image and process it)
+
+
+# Test Result:
+![Test Image 1](https://raw.githubusercontent.com/aligh95/facedetection/master/face_found.PNG)
